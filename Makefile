@@ -9,3 +9,6 @@ validate:
 	@test -f docs/requirements/product-vision.md
 	@test -f docs/requirements/requirements-baseline.md
 	@test -f docs/traceability/requirements-traceability.md
+	@test -f docs/architecture/architecture-baseline.md
+	@test -f docs/architecture/decision-record-requirements.md
+	@test -f docs/reviews/milestone-2-review.md

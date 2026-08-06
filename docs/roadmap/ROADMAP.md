@@ -23,7 +23,7 @@ Scope:
 
 ## Milestone 2: Architecture baseline
 
-Status: next.
+Status: complete.
 
 Scope:
 
@@ -31,6 +31,16 @@ Scope:
 - Define system boundaries without selecting implementation technology.
 - Define initial quality attribute scenarios, including Green Computing.
 - Define architecture decision record requirements.
+
+## Milestone 3: Technology-selection criteria and artifact templates
+
+Status: next.
+
+Scope:
+
+- Define technology-selection criteria without selecting technologies prematurely.
+- Define artifact templates that support required classifications and traceability.
+- Define decision-record templates for technology and dependency proposals.
 
 ## Later milestones
 - DSL specification.
