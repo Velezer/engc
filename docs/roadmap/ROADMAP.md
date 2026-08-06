@@ -81,14 +81,23 @@ Scope:
 
 ## Milestone 8: Reviewer specifications
 
-Status: next.
+Status: complete.
 
 Scope:
 
 - Define reviewer behavior, review criteria evaluation, governance evidence, acceptance recommendations, and conformance tests.
 - Use the accepted DSL, compiler pass, and linter rule baselines while preserving technology neutrality.
 
+## Milestone 9: CLI specifications
+
+Status: next.
+
+Scope:
+
+- Define command behavior, invocation boundaries, input and output contracts, exit semantics, and conformance tests.
+- Use the accepted DSL, compiler pass, linter rule, and reviewer baselines while preserving technology neutrality.
+
 ## Later milestones
-- CLI specifications.
+
 - Project generator specifications.
 - Minimal implementation after specifications are accepted.
