@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+- Accepted Milestone 6 compiler pass specification baseline.
+- Added compiler inputs, outputs, deterministic pass model, diagnostics, failure modes, generated artifact contracts, and conformance-test expectations.
+- Updated repository maturity, roadmap, validation, review notes, and traceability for Milestone 6.
+
+## Milestone 5
+
 - Accepted Milestone 5 DSL specification baseline.
 - Added DSL domain concepts, semantic model, validation rules, examples, non-examples, versioning policy, and compatibility policy.
 - Updated repository maturity, roadmap, validation, review notes, and traceability for Milestone 5.

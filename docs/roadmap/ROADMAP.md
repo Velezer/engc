@@ -63,14 +63,23 @@ Scope:
 
 ## Milestone 6: Compiler pass specifications
 
-Status: next.
+Status: complete.
 
 Scope:
 
 - Define compiler inputs, outputs, stages, diagnostics, failure modes, conformance tests, and generated artifact contracts.
 - Use the accepted DSL semantic model as input while preserving technology neutrality.
 
+## Milestone 7: Linter rule specifications
+
+Status: next.
+
+Scope:
+
+- Define linter rule families, severities, configuration boundaries, remediation guidance, and conformance tests.
+- Use the accepted DSL and compiler pass baselines while preserving technology neutrality.
+
 ## Later milestones
-- Linter rule specifications.
+- Reviewer specifications.
 - Project generator specifications.
 - Minimal implementation after specifications are accepted.
