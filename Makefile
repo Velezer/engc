@@ -11,4 +11,7 @@ validate:
 	@test -f docs/traceability/requirements-traceability.md
 	@test -f docs/architecture/architecture-baseline.md
 	@test -f docs/architecture/decision-record-requirements.md
+	@test -f docs/technology/technology-selection-criteria.md
+	@test -f docs/templates/artifact-templates.md
 	@test -f docs/reviews/milestone-2-review.md
+	@test -f docs/reviews/milestone-3-review.md

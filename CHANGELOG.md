@@ -2,6 +2,13 @@
 
 ## Unreleased
 
+- Accepted Milestone 3 technology-selection criteria and artifact templates.
+- Added technology-selection criteria with required comparison, scoring, Green Computing, dependency, and reversibility guidance.
+- Added reusable artifact, technology decision, and milestone review templates.
+- Updated repository maturity, roadmap, validation, review notes, and traceability for Milestone 3.
+
+## Milestone 2
+
 - Accepted Milestone 2 architecture baseline.
 - Added architecture decision-record requirements with Green Computing and dependency assessment sections.
 - Updated repository maturity, roadmap, validation, review notes, and traceability for Milestone 2.
