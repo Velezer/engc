@@ -1,14 +1,17 @@
 # Changelog
 
-All notable changes to Engineering Compiler are recorded here.
-
 ## Unreleased
 
-### Added
+- Accepted Milestone 2 architecture baseline.
+- Added architecture decision-record requirements with Green Computing and dependency assessment sections.
+- Updated repository maturity, roadmap, validation, review notes, and traceability for Milestone 2.
 
-- Added the immutable master prompt as the repository source of truth.
-- Added the initial Engineering Constitution.
-- Added the roadmap with Milestone 0 complete and Milestone 1 identified.
-- Added repository maturity notes and a minimal validation command.
-- Added product vision, requirements baseline, and initial requirements traceability matrix for Milestone 1.
-- Added Milestone 1 review and advanced the roadmap to the architecture baseline milestone.
+## Milestone 1
+
+- Added product vision, requirements baseline, and traceability matrix.
+- Updated repository maturity and roadmap for the architecture baseline milestone.
+
+## Milestone 0
+
+- Added immutable master prompt as source of truth.
+- Added engineering constitution, roadmap, changelog, review notes, README, and validation target.
