@@ -34,13 +34,23 @@ Scope:
 
 ## Milestone 3: Technology-selection criteria and artifact templates
 
-Status: next.
+Status: complete.
 
 Scope:
 
 - Define technology-selection criteria without selecting technologies prematurely.
 - Define artifact templates that support required classifications and traceability.
 - Define decision-record templates for technology and dependency proposals.
+
+## Milestone 4: Artifact catalog and specification-family requirements
+
+Status: next.
+
+Scope:
+
+- Define detailed catalog requirements for handbook, standards, templates, checklists, playbooks, governance, and metrics.
+- Define specification-family requirements for DSL, compiler, linter, reviewer, CLI, and project generators.
+- Preserve technology neutrality until specific technology decisions are accepted.
 
 ## Later milestones
 - DSL specification.
