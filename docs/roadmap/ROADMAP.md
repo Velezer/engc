@@ -13,7 +13,7 @@ Scope:
 
 ## Milestone 1: Product requirements baseline
 
-Status: next.
+Status: complete.
 
 Scope:
 
@@ -21,9 +21,18 @@ Scope:
 - Define ecosystem requirements for constitution, handbook, standards, templates, checklists, playbooks, governance, decision framework, metrics, DSL, compiler, linter, reviewer, CLI, and generators.
 - Define traceability identifiers before architecture.
 
-## Later milestones
+## Milestone 2: Architecture baseline
 
-- Architecture baseline.
+Status: next.
+
+Scope:
+
+- Define architecture drivers from accepted requirements.
+- Define system boundaries without selecting implementation technology.
+- Define initial quality attribute scenarios, including Green Computing.
+- Define architecture decision record requirements.
+
+## Later milestones
 - DSL specification.
 - Compiler pass specifications.
 - Linter rule specifications.

@@ -6,12 +6,13 @@ The source of truth starts with [`MASTER_PROMPT.md`](MASTER_PROMPT.md). The repo
 
 ## Repository maturity
 
-**Current maturity:** Foundation / Milestone 0.
+**Current maturity:** Requirements Baseline / Milestone 1.
 
 Facts:
 
 - The repository now contains the immutable master prompt.
-- The first milestone establishes governance and documentation structure only.
+- Milestone 0 established governance and documentation structure.
+- Milestone 1 defines a technology-neutral product vision, requirements baseline, and traceability matrix.
 - No compiler, CLI, linter, DSL runtime, or project generator implementation exists yet.
 
 Constraints:
@@ -22,7 +23,7 @@ Constraints:
 
 ## Next milestone
 
-Milestone 1 will define the minimum product requirements for the Engineering Compiler ecosystem before any production implementation begins.
+Milestone 2 will define the architecture baseline for the accepted requirements before any technology selection or production implementation begins.
 
 ## Validation
 
