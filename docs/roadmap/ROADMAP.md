@@ -72,14 +72,23 @@ Scope:
 
 ## Milestone 7: Linter rule specifications
 
-Status: next.
+Status: complete.
 
 Scope:
 
 - Define linter rule families, severities, configuration boundaries, remediation guidance, and conformance tests.
 - Use the accepted DSL and compiler pass baselines while preserving technology neutrality.
 
+## Milestone 8: Reviewer specifications
+
+Status: next.
+
+Scope:
+
+- Define reviewer behavior, review criteria evaluation, governance evidence, acceptance recommendations, and conformance tests.
+- Use the accepted DSL, compiler pass, and linter rule baselines while preserving technology neutrality.
+
 ## Later milestones
-- Reviewer specifications.
+- CLI specifications.
 - Project generator specifications.
 - Minimal implementation after specifications are accepted.
