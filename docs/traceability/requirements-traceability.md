@@ -2,7 +2,7 @@
 
 ## Status
 
-Updated matrix for Milestone 8.
+Updated matrix for Milestone 9.
 
 | Requirement ID | Source | Current satisfying artifact | Future downstream artifacts |
 | --- | --- | --- | --- |
@@ -18,15 +18,15 @@ Updated matrix for Milestone 8.
 | ENGC-ART-006 | Master prompt | Requirements baseline, `docs/requirements/artifact-catalog-requirements.md` | Playbook catalog |
 | ENGC-ART-007 | Master prompt | Requirements baseline, `docs/architecture/decision-record-requirements.md`, `docs/technology/technology-selection-criteria.md`, `docs/templates/artifact-templates.md`, `docs/requirements/artifact-catalog-requirements.md` | Governance and decision framework |
 | ENGC-ART-008 | Master prompt | Requirements baseline, `docs/requirements/artifact-catalog-requirements.md` | Metrics catalog |
-| ENGC-ART-009 | Master prompt | Requirements baseline, `docs/architecture/architecture-baseline.md`, `docs/requirements/artifact-catalog-requirements.md`, `docs/specifications/dsl-specification-baseline.md`, `docs/specifications/compiler-pass-specification.md`, `docs/specifications/linter-rule-specification.md`, `docs/specifications/reviewer-specification.md` | CLI and generator specifications |
+| ENGC-ART-009 | Master prompt | Requirements baseline, `docs/architecture/architecture-baseline.md`, `docs/requirements/artifact-catalog-requirements.md`, `docs/specifications/dsl-specification-baseline.md`, `docs/specifications/compiler-pass-specification.md`, `docs/specifications/linter-rule-specification.md`, `docs/specifications/reviewer-specification.md`, `docs/specifications/cli-specification.md` | Generator specifications |
 | ENGC-GRN-001 | Master prompt | Requirements baseline, `docs/architecture/architecture-baseline.md`, `docs/architecture/decision-record-requirements.md`, `docs/technology/technology-selection-criteria.md`, `docs/templates/artifact-templates.md`, `docs/specifications/linter-rule-specification.md`, `docs/specifications/reviewer-specification.md` | ADR and RFC templates |
 | ENGC-GRN-002 | Master prompt | Requirements baseline, `docs/architecture/decision-record-requirements.md`, `docs/technology/technology-selection-criteria.md`, `docs/templates/artifact-templates.md` | Dependency decision records |
 | ENGC-GRN-003 | Master prompt | Requirements baseline, `docs/architecture/architecture-baseline.md`, `docs/architecture/decision-record-requirements.md`, `docs/technology/technology-selection-criteria.md`, `docs/templates/artifact-templates.md` | Review checklist |
-| ENGC-TRC-001 | Master prompt | Requirements baseline, `docs/specifications/linter-rule-specification.md`, `docs/specifications/reviewer-specification.md` | CLI specification |
-| ENGC-TRC-002 | Master prompt | This traceability matrix, `docs/architecture/architecture-baseline.md`, `docs/architecture/decision-record-requirements.md`, `docs/technology/technology-selection-criteria.md`, `docs/templates/artifact-templates.md`, `docs/specifications/dsl-specification-baseline.md`, `docs/specifications/compiler-pass-specification.md`, `docs/specifications/linter-rule-specification.md`, `docs/specifications/reviewer-specification.md` | CLI and generator specifications |
+| ENGC-TRC-001 | Master prompt | Requirements baseline, `docs/specifications/linter-rule-specification.md`, `docs/specifications/reviewer-specification.md`, `docs/specifications/cli-specification.md` | CLI implementation proposal |
+| ENGC-TRC-002 | Master prompt | This traceability matrix, `docs/architecture/architecture-baseline.md`, `docs/architecture/decision-record-requirements.md`, `docs/technology/technology-selection-criteria.md`, `docs/templates/artifact-templates.md`, `docs/specifications/dsl-specification-baseline.md`, `docs/specifications/compiler-pass-specification.md`, `docs/specifications/linter-rule-specification.md`, `docs/specifications/reviewer-specification.md`, `docs/specifications/cli-specification.md` | Generator specifications |
 | ENGC-TRC-003 | Master prompt | Constitution, requirements baseline, `docs/architecture/architecture-baseline.md`, `docs/architecture/decision-record-requirements.md`, `docs/templates/artifact-templates.md` | Artifact templates |
 | ENGC-AUT-001 | Master prompt | Requirements baseline, `docs/requirements/artifact-catalog-requirements.md`, `docs/specifications/dsl-specification-baseline.md`, `docs/specifications/compiler-pass-specification.md` | Compiler implementation proposal |
 | ENGC-AUT-002 | Master prompt | Requirements baseline, `docs/requirements/artifact-catalog-requirements.md`, `docs/specifications/linter-rule-specification.md` | Linter implementation proposal |
 | ENGC-AUT-003 | Master prompt | Requirements baseline, `docs/requirements/artifact-catalog-requirements.md`, `docs/specifications/reviewer-specification.md` | Reviewer implementation proposal |
-| ENGC-AUT-004 | Master prompt | Requirements baseline, `docs/requirements/artifact-catalog-requirements.md` | CLI specification |
+| ENGC-AUT-004 | Master prompt | Requirements baseline, `docs/requirements/artifact-catalog-requirements.md`, `docs/specifications/cli-specification.md` | CLI implementation proposal |
 | ENGC-AUT-005 | Master prompt | Requirements baseline, `docs/requirements/artifact-catalog-requirements.md` | Project generator specification |

@@ -90,14 +90,22 @@ Scope:
 
 ## Milestone 9: CLI specifications
 
-Status: next.
+Status: complete.
 
 Scope:
 
 - Define command behavior, invocation boundaries, input and output contracts, exit semantics, and conformance tests.
 - Use the accepted DSL, compiler pass, linter rule, and reviewer baselines while preserving technology neutrality.
 
+## Milestone 10: Project generator specifications
+
+Status: next.
+
+Scope:
+
+- Define generator behavior, template inputs, project output contracts, safety boundaries, and conformance tests.
+- Use the accepted DSL, compiler pass, linter rule, reviewer, and CLI baselines while preserving technology neutrality.
+
 ## Later milestones
 
-- Project generator specifications.
 - Minimal implementation after specifications are accepted.
