@@ -18,6 +18,7 @@ validate:
 	@test -f docs/specifications/compiler-pass-specification.md
 	@test -f docs/specifications/linter-rule-specification.md
 	@test -f docs/specifications/reviewer-specification.md
+	@test -f docs/specifications/cli-specification.md
 	@test -f docs/reviews/milestone-2-review.md
 	@test -f docs/reviews/milestone-3-review.md
 	@test -f docs/reviews/milestone-4-review.md
@@ -25,3 +26,4 @@ validate:
 	@test -f docs/reviews/milestone-6-review.md
 	@test -f docs/reviews/milestone-7-review.md
 	@test -f docs/reviews/milestone-8-review.md
+	@test -f docs/reviews/milestone-9-review.md

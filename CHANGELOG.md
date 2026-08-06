@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+- Accepted Milestone 9 CLI specification baseline.
+- Added CLI command behavior, invocation boundaries, input and output contracts, exit semantics, failure modes, and conformance-test expectations.
+- Updated repository maturity, roadmap, validation, review notes, and traceability for Milestone 9.
+
+## Milestone 8
+
 - Accepted Milestone 8 reviewer specification baseline.
 - Added reviewer inputs, evidence model, criteria families, finding severities, recommendation states, acceptance boundaries, failure modes, and conformance-test expectations.
 - Updated repository maturity, roadmap, validation, review notes, and traceability for Milestone 8.

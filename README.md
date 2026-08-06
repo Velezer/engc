@@ -6,7 +6,7 @@ The source of truth starts with [`MASTER_PROMPT.md`](MASTER_PROMPT.md). The repo
 
 ## Repository maturity
 
-**Current maturity:** Reviewer Specification Baseline / Milestone 8.
+**Current maturity:** CLI Specification Baseline / Milestone 9.
 
 Facts:
 
@@ -20,6 +20,7 @@ Facts:
 - Milestone 6 defines technology-neutral compiler pass specifications, generated artifact contracts, diagnostics, failure modes, and conformance-test expectations.
 - Milestone 7 defines technology-neutral linter rule specifications, severities, configuration boundaries, remediation guidance, and conformance-test expectations.
 - Milestone 8 defines technology-neutral reviewer specifications, criteria evaluation, governance evidence, acceptance recommendations, and conformance-test expectations.
+- Milestone 9 defines technology-neutral CLI specifications, command behavior, invocation boundaries, input and output contracts, exit semantics, and conformance-test expectations.
 - No compiler, CLI, linter, reviewer, DSL runtime, project generator implementation, or implementation technology stack exists yet.
 
 Constraints:
@@ -30,7 +31,7 @@ Constraints:
 
 ## Next milestone
 
-The next milestone will define CLI specifications using the accepted DSL, compiler pass, linter rule, and reviewer baselines while continuing to avoid implementation technology choices.
+The next milestone will define project generator specifications using the accepted DSL, compiler pass, linter rule, reviewer, and CLI baselines while continuing to avoid implementation technology choices.
 
 ## Validation
 
