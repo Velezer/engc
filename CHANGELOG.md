@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+- Accepted Milestone 7 linter rule specification baseline.
+- Added linter rule families, severity semantics, configuration boundaries, remediation guidance, failure modes, and conformance-test expectations.
+- Updated repository maturity, roadmap, validation, review notes, and traceability for Milestone 7.
+
+## Milestone 6
+
 - Accepted Milestone 6 compiler pass specification baseline.
 - Added compiler inputs, outputs, deterministic pass model, diagnostics, failure modes, generated artifact contracts, and conformance-test expectations.
 - Updated repository maturity, roadmap, validation, review notes, and traceability for Milestone 6.
