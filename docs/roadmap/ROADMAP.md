@@ -54,15 +54,23 @@ Scope:
 
 ## Milestone 5: DSL specification baseline
 
-Status: next.
+Status: complete.
 
 Scope:
 
 - Define DSL domain concepts, semantic model, examples, non-examples, validation rules, and versioning policy.
 - Preserve technology neutrality and avoid compiler implementation details until compiler specifications are accepted.
 
+## Milestone 6: Compiler pass specifications
+
+Status: next.
+
+Scope:
+
+- Define compiler inputs, outputs, stages, diagnostics, failure modes, conformance tests, and generated artifact contracts.
+- Use the accepted DSL semantic model as input while preserving technology neutrality.
+
 ## Later milestones
-- Compiler pass specifications.
 - Linter rule specifications.
 - Project generator specifications.
 - Minimal implementation after specifications are accepted.

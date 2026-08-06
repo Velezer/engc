@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+- Accepted Milestone 5 DSL specification baseline.
+- Added DSL domain concepts, semantic model, validation rules, examples, non-examples, versioning policy, and compatibility policy.
+- Updated repository maturity, roadmap, validation, review notes, and traceability for Milestone 5.
+
+## Milestone 4
+
 - Accepted Milestone 4 artifact catalog and specification-family requirements.
 - Added detailed catalog requirements for handbook, standards, templates, checklists, playbooks, governance, and metrics.
 - Added specification-family requirements for DSL, compiler, linter, reviewer, CLI, and project generators.

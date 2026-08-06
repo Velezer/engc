@@ -14,6 +14,8 @@ validate:
 	@test -f docs/technology/technology-selection-criteria.md
 	@test -f docs/templates/artifact-templates.md
 	@test -f docs/requirements/artifact-catalog-requirements.md
+	@test -f docs/specifications/dsl-specification-baseline.md
 	@test -f docs/reviews/milestone-2-review.md
 	@test -f docs/reviews/milestone-3-review.md
 	@test -f docs/reviews/milestone-4-review.md
+	@test -f docs/reviews/milestone-5-review.md
