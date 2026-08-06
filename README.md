@@ -6,7 +6,7 @@ The source of truth starts with [`MASTER_PROMPT.md`](MASTER_PROMPT.md). The repo
 
 ## Repository maturity
 
-**Current maturity:** Technology-Selection Criteria and Artifact Templates / Milestone 3.
+**Current maturity:** Artifact Catalog and Specification-Family Requirements / Milestone 4.
 
 Facts:
 
@@ -15,6 +15,7 @@ Facts:
 - Milestone 1 defined a technology-neutral product vision, requirements baseline, and traceability matrix.
 - Milestone 2 defines a technology-neutral architecture baseline and decision-record requirements.
 - Milestone 3 defines technology-selection criteria and reusable artifact templates.
+- Milestone 4 defines detailed artifact catalog requirements and specification-family requirements.
 - No compiler, CLI, linter, DSL runtime, project generator implementation, or implementation technology stack exists yet.
 
 Constraints:
@@ -25,7 +26,7 @@ Constraints:
 
 ## Next milestone
 
-Milestone 4 will define detailed artifact catalog requirements for handbook, standards, checklists, playbooks, governance, metrics, and future specification families before DSL and automation specifications begin.
+Milestone 5 will define the first DSL specification baseline, including domain concepts, semantic model, examples, validation rules, and versioning policy before compiler specifications begin.
 
 ## Validation
 

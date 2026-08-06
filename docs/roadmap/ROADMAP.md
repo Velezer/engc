@@ -44,7 +44,7 @@ Scope:
 
 ## Milestone 4: Artifact catalog and specification-family requirements
 
-Status: next.
+Status: complete.
 
 Scope:
 
@@ -52,8 +52,16 @@ Scope:
 - Define specification-family requirements for DSL, compiler, linter, reviewer, CLI, and project generators.
 - Preserve technology neutrality until specific technology decisions are accepted.
 
+## Milestone 5: DSL specification baseline
+
+Status: next.
+
+Scope:
+
+- Define DSL domain concepts, semantic model, examples, non-examples, validation rules, and versioning policy.
+- Preserve technology neutrality and avoid compiler implementation details until compiler specifications are accepted.
+
 ## Later milestones
-- DSL specification.
 - Compiler pass specifications.
 - Linter rule specifications.
 - Project generator specifications.
